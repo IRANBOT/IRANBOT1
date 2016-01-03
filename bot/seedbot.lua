@@ -230,16 +230,8 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+us
+@S_e_c_u_r_i_t_y
 Our channels
 @teleseedch [English]
 ]],
@@ -433,7 +425,7 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id = 131218437
 now = os.time()
 math.randomseed(now)
 started = false
